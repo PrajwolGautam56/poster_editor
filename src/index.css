@@ -1,7 +1,7 @@
 /* src/App.css */
 #poster {
   font-family: 'Arial, sans-serif';
-  background-image: url(happiness1.png);
+  background-image: url(../public/happiness1.png);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
